@@ -170,6 +170,9 @@ h1, h2, h3, h4, h5, h6 {
 .home .social-links a:hover {
   background: #ff004f;
 }
+.fa-brands, .fab {
+  font-size: 18px;
+}
 .head ul {
   display: flex;
   margin: 0;
